@@ -1,0 +1,40 @@
+{
+  "name": "js-debug-tools",
+  "version": "1.0.0",
+  "description": "an awesome collection of tools to log to existing or new tools like \"redux dev tools\"",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdoMoh96/js-debugger.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "reactjs",
+    "react",
+    "devtools",
+    "js debugger",
+    "js debugging",
+    "redux dev tools"
+  ],
+  "author": "Abdelrahman Mohammed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdoMoh96/js-debugger/issues"
+  },
+  "homepage": "https://github.com/AbdoMoh96/js-debugger#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "tsup": "^8.3.0",
+    "typescript": "^5.6.2"
+  }
+}
