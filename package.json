@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AbdoMoh96/js-debugger.git"
+    "url": "git+https://github.com/AbdoMoh96/js-debug-tools.git"
   },
   "keywords": [
     "javascript",
@@ -29,9 +29,9 @@
   "author": "Abdelrahman Mohammed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbdoMoh96/js-debugger/issues"
+    "url": "https://github.com/AbdoMoh96/js-debug-tools/issues"
   },
-  "homepage": "https://github.com/AbdoMoh96/js-debugger#readme",
+  "homepage": "https://github.com/AbdoMoh96/js-debug-tools#readme",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsup": "^8.3.0",
